@@ -1,3 +1,5 @@
+<img width="532" height="851" alt="Screenshot 2026-02-07 124146" src="https://github.com/user-attachments/assets/e6cd329d-5319-4e28-a34a-f6e6add7582f" />   
+
 # future_ux_02 #
 
 # 📱 LuxeStyle – Salon Appointment Booking App UI
@@ -50,7 +52,7 @@ Booking Success
 ```
 
 ---
-
+ <img width="525" height="854" alt="Screenshot 2026-02-07 124324" src="https://github.com/user-attachments/assets/7f4535f2-ff83-4f1b-a4c6-21480e12db47" />
 ## 🖼️ Screens Included
 
 - Onboarding screens  
